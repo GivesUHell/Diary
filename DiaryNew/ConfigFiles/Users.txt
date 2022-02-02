@@ -1,0 +1,2 @@
+﻿Asaf=123456
+AsafRank=Admin
